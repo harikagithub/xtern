@@ -3,6 +3,7 @@ i have downloaded data using a data scrapping extension.
 I tried downloading it through googleAPI but wasn't successful but still want to perform the analysis so dowladed it
 
 now the data has 120 rows and 6 columns.i dropped the rows with null values because feedback cannot be imputed based on other factors and these were the results of my search "stores and places in indianapolis" in googlemaps.
+now the number of rows has been reduced to 115.
 
 presenting a one day plan from 9:00 A.M. to 9:00 P.M. must be time-effcient. so i choose to classify it based on two factors:
 1.rating 
